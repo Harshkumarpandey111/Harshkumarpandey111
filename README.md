@@ -46,6 +46,8 @@
 ---
 
 # 📌 Featured Projects
+### 🔹 resume-analyzer
+👉 https://github.com/Harshkumarpandey111/resume-analyzer
 
 ### 🔹 Movie Search Pro  
 👉 https://github.com/Harshkumarpandey111/Movie-Search-Pro  
