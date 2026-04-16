@@ -20,7 +20,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshkumarpandey111&theme=onedark&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshkumarpandey111&theme=flat&no-frame=true" />
 </p>
 
 ---
