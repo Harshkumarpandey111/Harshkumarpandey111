@@ -18,15 +18,7 @@
 
 ---
 
-## 🏆 Achievements
 
-- 🚀 Built Full-Stack MERN Applications  
-- 🤖 Developed AI Resume Analyzer  
-- 🎬 Created Movie Search Platform (Angular + API)  
-- 🛒 Built E-commerce UI (SoleMate Store)  
-- ⚡ Strong in Responsive UI & Performance Optimization  
-
----
 
 # 🚀 Tech Stack  
 
