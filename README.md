@@ -60,7 +60,7 @@
 
 ### 🥇 WayGo — Smart Travel Cost Planner  
 👉 Full-stack MERN app with JWT auth, real-time fuel pricing & expense dashboard  
-🔗 (Add repo link here)
+🔗 https://github.com/Harshkumarpandey111/waygo
 
 ---
 
