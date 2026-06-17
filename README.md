@@ -2,18 +2,18 @@
 
 <div align="center">
   
-# 👋 Hi, I'm **Harsh Kumar Pandey**  
-### 🚀 *Frontend + MERN Stack Developer | Angular | React | Node.js | Cyber Security Learner*
+# 👋 Hi, I'm Harsh Kumar Pandey
+🚀 Full Stack Developer | MERN Stack | Angular | React | Node.js | AI Enthusiast | Cyber Security Learner*
 
 </div>
 
 ---
 
-## 🔥 About Me  
-- 💻 Passionate **Frontend + Full-Stack Developer**  
-- 🚀 Building scalable **MERN stack applications**  
-- 🎯 Love creating **interactive & real-world problem-solving projects**  
-- 🔐 Exploring **Cyber Security & System Design**  
+## 💻 Passionate Full Stack Developer focused on building scalable web applications.
+🚀 Experienced in MERN Stack, Angular, REST APIs, Authentication Systems, and Cloud Deployment.
+🤖 Interested in Artificial Intelligence, NLP, Machine Learning, and Predictive Systems.
+🔐 Exploring Cyber Security, API Security, JWT Authentication, and System Design.
+🌱 Constantly learning modern technologies and building real-world problem-solving products.  
 - 📬 Email: **harshkumarpandey164@gmail.com**
 
 ---
