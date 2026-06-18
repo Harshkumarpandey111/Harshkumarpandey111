@@ -1,25 +1,29 @@
-img width="100%" src="https://raw.githubusercontent.com/Harshkumarpandey111/Harshkumarpandey111/main/ChatGPT%20Image%20Nov%2027%2C%202025%2C%2011_47_01%20PM.png" />      <div align="center">      👋 Hi, I'm Harsh Kumar Pandey
+<img width="100%" src="https://raw.githubusercontent.com/Harshkumarpandey111/Harshkumarpandey111/main/ChatGPT%20Image%20Nov%2027%2C%202025%2C%2011_47_01%20PM.png" />
 
-🚀 Frontend + MERN Stack Developer | Angular | React | Node.js | Cyber Security Learner
+<div align="center">
+  
+# 👋 Hi, I'm **Harsh Kumar Pandey**  
+### 🚀 *Frontend + MERN Stack Developer | Angular | React | Node.js | Cyber Security Learner*
 
-</div>      
----
-
-🔥 About Me
-
-💻 Passionate Frontend + Full-Stack Developer
-
-🚀 Building scalable MERN stack applications
-
-🎯 Love creating interactive & real-world problem-solving projects
-
-🔐 Exploring Cyber Security & System Design
-
-📬 Email: harshkumarpandey164@gmail.com
+</div>
 
 ---
 
+## 🔥 About Me  
+- 💻 Passionate **Frontend + Full-Stack Developer**  
+- 🚀 Building scalable **MERN stack applications**  
+- 🎯 Love creating **interactive & real-world problem-solving projects**  
+- 🔐 Exploring **Cyber Security & System Design**  
+- 📬 Email: **harshkumarpandey164@gmail.com**
 
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshkumarpandey111&theme=radical&no-frame=true&margin-w=10" />
+</p>
+
+---
 
 # 🚀 Tech Stack  
 
@@ -56,7 +60,7 @@ img width="100%" src="https://raw.githubusercontent.com/Harshkumarpandey111/Hars
 
 ### 🥇 WayGo — Smart Travel Cost Planner  
 👉 Full-stack MERN app with JWT auth, real-time fuel pricing & expense dashboard  
-🔗 https://github.com/Harshkumarpandey111/waygo
+🔗 (Add repo link here)
 
 ---
 
